@@ -3,5 +3,5 @@
 	<head>
 		<title>gotSrc(); <?php echo $title(); ?></title>
 	</head>
-
+fdsfsd
 	<body>
